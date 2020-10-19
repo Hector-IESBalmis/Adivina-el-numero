@@ -9,7 +9,6 @@
     <Grid>
         <Button
             x:Name="comprobarButton"
-            
             Content="Comprobar"
             HorizontalAlignment="Left"
             Margin="401,238,0,0"
